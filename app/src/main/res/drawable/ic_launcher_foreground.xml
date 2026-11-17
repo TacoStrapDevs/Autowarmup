@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- chef hat blob — scaled to fit adaptive icon safe zone (72dp centred in 108dp) -->
+    <!-- blob top -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="
+M54,18
+C44,18 36,25 35,34
+C29,35 24,40 24,47
+C24,52 27,56 31,58
+L31,72
+C31,74 33,76 35,76
+L73,76
+C75,76 77,74 77,72
+L77,58
+C81,56 84,52 84,47
+C84,40 79,35 73,34
+C72,25 64,18 54,18 Z" />
+
+    <!-- left eye cutout -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,46 C46,43.8 47.8,42 50,42 C52.2,42 54,43.8 54,46 L54,54 C54,56.2 52.2,58 50,58 C47.8,58 46,56.2 46,54 Z" />
+
+    <!-- right eye cutout -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,46 C54,43.8 55.8,42 58,42 C60.2,42 62,43.8 62,46 L62,54 C62,56.2 60.2,58 58,58 C55.8,58 54,56.2 54,54 Z" />
+
+    <!-- neck/base bar -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M44,80 C44,77.8 45.8,76 48,76 L60,76 C62.2,76 64,77.8 64,80 C64,82.2 62.2,84 60,84 L48,84 C45.8,84 44,82.2 44,80 Z" />
+
+</vector>

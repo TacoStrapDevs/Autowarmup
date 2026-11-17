@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jefe AutoWarm</string>
+    <string name="accessibility_service_description">Jefe AutoWarm scrolls and likes YouTube videos to warm up your account.</string>
+    <string name="notif_channel_name">Warmup Session</string>
+    <string name="notif_channel_desc">Shows active warmup session status</string>
+    <string name="notif_title">Jefe AutoWarm running</string>
+</resources>
